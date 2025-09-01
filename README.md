@@ -14,7 +14,7 @@
 - 🔐 Passionate about **Information Security**, **Governance, Risk & Compliance (GRC)** and **Security Operations**  
 - 📚 Certifications: CompTIA Security+, BCS CISMP, ISC2 CC, Atlassian ITSM & Agile  
 - 🛡️ Experience in incident response, secure operations, and IT service delivery  
-- 🌱 Currently goals: SSCP, CySA+, CISM, CISSP 
+- 🌱 Current goals: SSCP, CySA+, CISM, CISSP 
 
 ---
 
