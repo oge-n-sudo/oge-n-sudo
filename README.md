@@ -15,5 +15,5 @@ I’m a Cybersecurity, InfoSec and IT Service Delivery professional with experie
 - Preparing for SSCP, CySA+ & CISM certifications  
 
 ## 📂 Projects
-- [GRC Lab](https://github.com/oge-ndukuba/grc-lab) – reproducible articles & labs (PCI DSS 4.0, Wazuh vs Sentinel, NIST CSF 2.0)  
+- [GRC Lab](https://github.com/oge-n-sudo/grc-lab) – reproducible articles & labs (PCI DSS 4.0, Wazuh vs Sentinel, NIST CSF 2.0)  
 - More to come: risk assessment frameworks, Metasploitable2 hardening, Azure security baselines
