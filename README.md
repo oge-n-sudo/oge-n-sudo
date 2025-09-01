@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Oge
 
-<!--
-**oge-n-sudo/oge-n-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Cybersecurity, InfoSec and IT Service Delivery professional with experience in  
+- Incident detection & response  
+- Governance, Risk and Compliance (ISO 27001, PCI DSS, GDPR, NIST CSF)  
+- Cloud and endpoint security (Microsoft 365, Sentinel, Defender)  
+- IT service delivery and project management  
 
-Here are some ideas to get you started:
+## 🎯 Certs
+- Comptia Sec+, ISC2 CC, BCS CISMP, SC-900
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current focus
+- MSc Enterprise Cybersecurity (OPIT)
+- Building a **GRC Lab**: reproducible studies, lab guides, and replication packs to help professionals and learners  
+- Preparing for SSCP, CySA+ & CISM certifications  
+
+## 📂 Projects
+- [GRC Lab](https://github.com/oge-ndukuba/grc-lab) – reproducible articles & labs (PCI DSS 4.0, Wazuh vs Sentinel, NIST CSF 2.0)  
+- More to come: risk assessment frameworks, Metasploitable2 hardening, Azure security baselines
