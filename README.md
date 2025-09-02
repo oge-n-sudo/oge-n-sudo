@@ -60,5 +60,5 @@ Here are some of my ongoing research and learning projects:
 ---
 
 <p align="center">
-  <em>“Cybersecurity is about people as much as controls — I enjoy making it clear, approachable, and actionable.”</em>
+  <em>“Cybersecurity is about people as much as controls - I enjoy making it clear, approachable and actionable.”</em>
 </p>
