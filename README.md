@@ -48,7 +48,7 @@ Here are some of my ongoing research and learning projects:
 ## 🛠️ Tools & Frameworks
 **Tools:** Microsoft 365 (Microsoft Sentinel, Defender for Endpoint, Purview, Sharepoint, Azure), Wazuh, Splunk, Datadog, Nessus, ServiceNow, Jira, Zendesk, Confluence, AWS, VMware  
 **Frameworks:** ISO 27001, ISO 31000, ISO 27005, NIST CSF, PCI DSS, GDPR, Cyber Essentials  
-**Skills** Security Operations, Incident Detection & Response, Security Awareness, Risk Registers, Third-Party Risk Management (TPRM), Business Continuity Planning, Disaster Recovery, Troubleshooting, Secure Configuration Baselines, IT Service Management, Stakeholder Communication & Reporting, Complex Problem Resolution, Program Delivery, Team Leadership
+**Skills:** Security Operations, Incident Detection & Response, Security Awareness, Risk Registers, Third-Party Risk Management (TPRM), Business Continuity Planning, Disaster Recovery, Troubleshooting, Secure Configuration Baselines, IT Service Management, Stakeholder Communication & Reporting, Complex Problem Resolution, Program Delivery, Team Leadership
 
 ---
 
