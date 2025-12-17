@@ -19,7 +19,7 @@
 ---
 
 ## 🧑‍💻 Projects & Labs
-Here are some of my ongoing research and learning projects:
+Here are some of my ongoing research and professional projects:
 
 - 🔎 **[GRC Lab](https://github.com/oge-n-sudo/grc-lab)**  
   Reproducible labs, articles, and replication packs for Cybersecurity and GRC.
