@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Oge</h1>
 
 <p align="center">
-  <em>Cybersecurity & GRC Professional | MSc Enterprise Cybersecurity | Security+, CISMP, ISC2 CC</em>
+  <em>Information Security & GRC Professional | MBCS </em>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 📍 Based in the UK  
 - 🎓 MSc in Enterprise Cybersecurity (OPIT) - *In view* 
 - 🔐 Passionate about **Information Security**, **Governance, Risk & Compliance (GRC)** and **Security Operations**  
-- 📚 Certifications: SSCP, CompTIA Security+, BCS CISMP, ISC2 CC, Atlassian ITSM & Agile  
+- 📚 Certifications: ISO/IEC 27001:2022 ISMS Lead Auditor, SSCP, CompTIA Security+, BCS CISMP, ISC2 CC, SC-900, Highfield Level 2 Certificate in Team Leading Principles (RQF), Atlassian ITSM & Agile  
 - 🛡️ Experience in Technical IT, GRC, incident response, security operations and IT service delivery  
 - 🌱 Current goals: CySA+, CISM
 
