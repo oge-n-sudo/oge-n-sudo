@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 - 📍 Based in the UK  
-- 🎓 MSc in Enterprise Cybersecurity (OPIT)  
+- 🎓 MSc in Enterprise Cybersecurity (OPIT) - *In view* 
 - 🔐 Passionate about **Information Security**, **Governance, Risk & Compliance (GRC)** and **Security Operations**  
-- 📚 Certifications: CompTIA Security+, BCS CISMP, ISC2 CC, Atlassian ITSM & Agile  
-- 🛡️ Experience in incident response, secure operations, and IT service delivery  
-- 🌱 Current goals: SSCP, CySA+, CISM, CISSP 
+- 📚 Certifications: SSCP, CompTIA Security+, BCS CISMP, ISC2 CC, Atlassian ITSM & Agile  
+- 🛡️ Experience in Technical IT, GRC, incident response, security operations and IT service delivery  
+- 🌱 Current goals: CySA+, CISM
 
 ---
 
@@ -22,10 +22,11 @@
 Here are some of my ongoing research and learning projects:
 
 - 🔎 **[GRC Lab](https://github.com/oge-n-sudo/grc-lab)**  
-  Reproducible labs, articles, and replication packs for Cybersecurity and GRC.  
+  Reproducible labs, articles, and replication packs for Cybersecurity and GRC.
+  - Secure Service Delivery & Implementation Framework with ISO 27001 and ITIL 4
+  - Third-Party Risk Management (TPRM) Framework with ISO 27001 and ITIL 4 
   - PCI DSS 4.0 in Microsoft 365 & Azure  
   - Wazuh vs Microsoft Sentinel detection study  
-  - NIST CSF 2.0 “Govern” implementation  
 
 - 🛠️ **Metasploitable2 Hardening Project**  
   Step-by-step guide to securing an intentionally vulnerable system.  
@@ -45,8 +46,9 @@ Here are some of my ongoing research and learning projects:
 ---
 
 ## 🛠️ Tools & Frameworks
-**Tools:** Microsoft Sentinel, Defender for Endpoint, Wazuh, Datadog, Nessus, ServiceNow, Jira, Confluence, Microsoft 365
+**Tools:** Microsoft 365 (Microsoft Sentinel, Defender for Endpoint, Purview, Sharepoint, Azure), Wazuh, Splunk, Datadog, Nessus, ServiceNow, Jira, Zendesk, Confluence, AWS, VMware  
 **Frameworks:** ISO 27001, ISO 31000, ISO 27005, NIST CSF, PCI DSS, GDPR, Cyber Essentials  
+**Skills** Security Operations, Incident Detection & Response, Security Awareness, Risk Registers, Third-Party Risk Management (TPRM), Business Continuity Planning, Disaster Recovery, Troubleshooting, Secure Configuration Baselines, IT Service Management, Stakeholder Communication & Reporting, Complex Problem Resolution, Program Delivery, Team Leadership
 
 ---
 
