@@ -10,7 +10,8 @@
 
 ## 🚀 About Me
 - 📍 Based in the UK  
-- 🎓 MSc in Enterprise Cybersecurity (OPIT) - *In view* 
+- 🎓 BSc in Mass Communication
+- 🎓 MSc in Enterprise Cybersecurity - *In view* 
 - 🔐 Passionate about **Information Security**, **Governance, Risk & Compliance (GRC)** and **Security Operations**  
 - 📚 Certifications: ISO/IEC 27001:2022 ISMS Lead Auditor, SSCP, CompTIA Security+, BCS CISMP, ISC2 CC, SC-900, Highfield Level 2 Certificate in Team Leading Principles (RQF), Atlassian ITSM & Agile  
 - 🛡️ Experience in Technical IT, GRC, incident response, security operations and IT service delivery  
